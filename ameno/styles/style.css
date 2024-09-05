@@ -1,0 +1,10 @@
+    /* https://developer.mozilla.org/ru/docs/Web/CSS */
+body {
+    background-color: rgba(199, 120, 47, 0.712);
+}
+ul {
+    display: inline;
+}
+ul li {
+    display: inline;
+}
