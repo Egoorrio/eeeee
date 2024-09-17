@@ -1,0 +1,24 @@
+body{
+    font: 18px/1.5 sans-serif;
+    color: rgb(0, 0, 0);
+}
+table,
+td{
+    border: 1px solid #000;
+}
+td{
+    padding: 10px;
+}
+#amount{
+    text-align:right;
+}
+#hidd{
+    background-color: rgba(230, 181, 21, 0.788);
+}
+#idd{
+    background-color: rgba(33, 221, 58, 0.664);
+}
+#ccol{
+    background-color: rgba(209, 162, 34, 0.733);
+
+}
